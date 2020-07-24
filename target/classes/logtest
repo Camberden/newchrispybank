@@ -1,0 +1,33 @@
+2020-02-26 11:08:23 INFO  CustomerService:47 - nestowithdrew 1.0
+2020-02-26 11:08:25 INFO  CustomerService:47 - nestowithdrew 1.0
+2020-02-26 11:08:27 INFO  CustomerService:47 - nestowithdrew 1.0
+2020-02-26 12:46:53 INFO  AdminService:57 - chrispy withdrew $1.0 from nesto
+2020-02-26 12:51:05 INFO  AdminService:57 - chrispy withdrew $1.0 from nesto
+2020-02-26 12:51:16 INFO  AdminService:102 - chrispy deposited $1.0 for nesto
+2020-02-26 12:52:28 INFO  AdminService:102 - chrispy deposited $100.0 for nesto
+2020-02-26 12:54:47 INFO  AdminService:158 - chrispy initialized transfer such that: po transfers $100.0 to chicken
+2020-02-26 13:03:54 INFO  CustomerService:47 - fawch withdrew $1.0
+2020-02-26 13:04:02 INFO  CustomerService:47 - fawch withdrew $5.0
+2020-02-26 13:25:20 INFO  CustomerService:47 - nesto withdrew $2000.0
+2020-02-26 13:25:33 INFO  CustomerService:76 - nesto deposited $2000.0
+2020-02-26 13:34:50 INFO  CustomerService:50 - nesto withdrew $1.0
+2020-02-26 13:34:52 INFO  CustomerService:50 - nesto withdrew $1.0
+2020-02-26 14:21:18 INFO  CustomerService:50 - nesto withdrew $1.0
+2020-02-26 14:21:23 INFO  CustomerService:50 - nesto withdrew $1.0
+2020-02-26 14:21:26 INFO  CustomerService:79 - nesto deposited $2.0
+2020-02-26 14:21:58 INFO  CustomerService:121 - nesto transferred $123.0 to fawch
+2020-02-26 15:24:15 INFO  CustomerService:79 - testman deposited $100.0
+2020-02-26 15:25:25 INFO  CustomerService:121 - testman transferred $50.0 to nesto
+2020-02-26 15:26:08 INFO  CustomerService:50 - nesto withdrew $1.0
+2020-02-29 21:31:01 INFO  AdminDaoImpl:424 - PSQLException: no return; no issue
+2020-02-29 21:31:01 INFO  AdminDaoImpl:324 - PSQLException: no return; no issue
+2020-02-29 21:33:57 INFO  CustomerService:79 - andre deposited $50.0
+2020-02-29 21:34:26 INFO  AdminService:61 - chrispy withdrew $5.0 from andre
+2020-02-29 21:34:38 INFO  CustomerService:50 - andre withdrew $1.0
+2020-02-29 21:52:23 INFO  AdminDaoImpl:424 - PSQLException: no return; no issue
+2020-02-29 21:52:23 INFO  AdminDaoImpl:324 - PSQLException: no return; no issue
+2020-02-29 21:53:20 INFO  CustomerService:79 - potato deposited $100.0
+2020-02-29 21:54:03 INFO  CustomerService:50 - potato withdrew $1.05
+2020-02-29 21:55:49 INFO  AdminService:61 - chrispy withdrew $5.0 from potato
+2020-03-02 20:01:53 INFO  AdminDaoImpl:424 - PSQLException: no return; no issue
+2020-03-02 20:01:53 INFO  AdminDaoImpl:324 - PSQLException: no return; no issue
