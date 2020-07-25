@@ -303,6 +303,7 @@ final static Logger logger = Logger.getLogger(CustomerService.class);
 	public static boolean verifyEmployeeUsernameAndPassword(String username, String password) {
 		
 		LinkageDao l = new LinkageDao();
+		System.out.println(l.getDbUrl());
 		
 		boolean result = false;
 		try {

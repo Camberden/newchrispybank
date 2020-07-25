@@ -25,6 +25,7 @@ public class CentralClass extends MainMenuScreen {
 
 	
 	public static void main(String[] args) {
+		
 		 mainMenu(); 
 	}
 }
